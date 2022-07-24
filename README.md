@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Enea
-- 🔭 I’m currently working on some Python project
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on some simple projects
 
 <!--
 - 🌱 I’m currently learning ...
