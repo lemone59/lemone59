@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Enea
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML and CSS
 - 👯 I’m looking to collaborate on some simple projects
 
 <!--
