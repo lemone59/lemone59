@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Enea
-- 🌱 I’m currently learning Python, HTML and CSS
-- 👯 I’m looking to collaborate on some simple projects
-- 📫 Feel free to message me by gmail at lemonexd@gmail.com at any time 
+- #👋 Hi, I'm Enea
+- #🌱 I’m currently learning Python, HTML and CSS
+- #👯 I’m looking to collaborate on some simple projects
+- #📫 Feel free to message me by gmail at lemonexd@gmail.com at any time 
 
 <!--
 - 🌱 I’m currently learning ...
